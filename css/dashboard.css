@@ -1,0 +1,13 @@
+
+.card_btn_bugs{
+	padding: 5px 20px;
+	color: #fff;
+	border-radius: 20px;
+	cursor: pointer;
+}
+.card_btn_bugs:hover{
+	text-decoration: none;
+}
+.bugs-title{
+	font-weight: bold;
+}
