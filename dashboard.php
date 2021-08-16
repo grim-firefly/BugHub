@@ -79,7 +79,7 @@ include 'lib/function.php';
 				echo '<div class="card"><div class="card-body"><div class="row"><div class="card-title bugs-title col-11">';
 				echo $row['title'];
 				echo '</div>';
-				echo '<p class="badge-danger badge ml-5" style="text-align:center;">';
+				echo '<p class="badge-danger badge ml-2" style="text-align:center;">';
 				echo $row['label'];
 				echo '</p>';
 				echo '</div>';
